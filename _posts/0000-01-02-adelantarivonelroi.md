@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Hi this is Black, it's my IGN
 Use the left arrow to go back!
